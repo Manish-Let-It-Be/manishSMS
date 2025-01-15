@@ -23,7 +23,7 @@ class StudentManagementSystem:
             wb.create_sheet(title="Courses")
             wb.save(database)
             wb.close()
-            print("Workbook created with necessary sheets.")
+            print("Workbook created with necessary sheets at present working directory.")
             return
 
         wb = load_workbook(database)

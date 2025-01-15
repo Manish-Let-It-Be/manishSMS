@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='manishSMS',
-    version='0.1.3',
+    version='0.1.4',
     author='Manish Prasad',
     author_email='m4manishp4prasad@gmail.com.com',
     description='A School Management System',

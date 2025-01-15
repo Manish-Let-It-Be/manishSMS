@@ -50,7 +50,7 @@ The system provides basic CRUD (Create, Read, Update, Delete) functionalities fo
     ```
 2. Run the program:
     ```bash
-    start
+    startsms
     ```
 
 ### Clone & Run
