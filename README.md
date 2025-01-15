@@ -1,4 +1,4 @@
-# Basic School Management System Python Package
+# [Basic School Management System Python Package](https://pypi.org/project/manishSMS/)
 
    A simple School Management System implemented in Python. This system allows for the management of Students, Staffs, and Courses using a command-line interface (CLI) and stores data in an Excel file.
 
