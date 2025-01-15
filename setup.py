@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='manishSMS',
-    version='0.1.2',
+    version='0.1.3',
     author='Manish Prasad',
     author_email='m4manishp4prasad@gmail.com.com',
     description='A School Management System',
@@ -12,7 +12,7 @@ setup(
     packages=find_packages(),
     entry_points={
         'console_scripts': [
-            'start=manishSMS.sms:main',  
+            'startsms=manishSMS.sms:main',  
         ],
     },
     classifiers=[
@@ -21,4 +21,8 @@ setup(
         'Operating System :: OS Independent',
     ],
     python_requires='>=3.6',
+    install_requires=[
+        'tabulate',
+        'openpyxl',
+    ],
 )

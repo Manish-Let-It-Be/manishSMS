@@ -1,6 +1,6 @@
 Metadata-Version: 2.2
 Name: manishSMS
-Version: 0.1.2
+Version: 0.1.3
 Summary: A School Management System
 Home-page: https://github.com/Manish-Let-It-Be/manishSMS
 Author: Manish Prasad
@@ -11,12 +11,15 @@ Classifier: Operating System :: OS Independent
 Requires-Python: >=3.6
 Description-Content-Type: text/markdown
 License-File: LICENSE
+Requires-Dist: tabulate
+Requires-Dist: openpyxl
 Dynamic: author
 Dynamic: author-email
 Dynamic: classifier
 Dynamic: description
 Dynamic: description-content-type
 Dynamic: home-page
+Dynamic: requires-dist
 Dynamic: requires-python
 Dynamic: summary
 

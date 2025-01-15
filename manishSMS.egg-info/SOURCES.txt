@@ -7,4 +7,5 @@ manishSMS.egg-info/PKG-INFO
 manishSMS.egg-info/SOURCES.txt
 manishSMS.egg-info/dependency_links.txt
 manishSMS.egg-info/entry_points.txt
+manishSMS.egg-info/requires.txt
 manishSMS.egg-info/top_level.txt
