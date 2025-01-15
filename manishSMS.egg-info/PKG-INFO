@@ -1,6 +1,6 @@
 Metadata-Version: 2.2
 Name: manishSMS
-Version: 0.1.1
+Version: 0.1.2
 Summary: A School Management System
 Home-page: https://github.com/Manish-Let-It-Be/manishSMS
 Author: Manish Prasad
@@ -52,10 +52,10 @@ The system provides basic CRUD (Create, Read, Update, Delete) functionalities fo
 ## Screenshots
 
 ### CLI Interface
-![CLI Interface](SMS.jpg)
+![CLI Interface](https://raw.githubusercontent.com/Manish-Let-It-Be/manishSMS/refs/heads/main/SMS.jpg?token=GHSAT0AAAAAAC4QFT7PGNXIA4XPJM3OTM6KZ4ICQAA)
 
 ### Excel File
-![Excel File](SMSexcel.jpg)
+![Excel File](https://raw.githubusercontent.com/Manish-Let-It-Be/manishSMS/refs/heads/main/SMSexcel.jpg?token=GHSAT0AAAAAAC4QFT7OWO5HJ6ZP7ZVTONMYZ4ICQKA)
 
 ## Technologies Used
 
